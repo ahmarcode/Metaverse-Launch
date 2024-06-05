@@ -22,8 +22,8 @@ The website utilizes modern web technologies, including HTML, CSS, and JavaScrip
 
 To run the website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/metaverse-cyberfiction.git`
-2. Navigate to the project directory: `cd metaverse-cyberfiction`
+1. Clone the repository: `git clone https://github.com/ahmarcode/Metaverse-Launch.git`
+2. Navigate to the project directory: `cd Metaverse-Launch`
 3. Open the `index.html` file in a web browser.
 
 Alternatively, you can use a local development server to serve the website. Popular choices include [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for Visual Studio Code or the built-in web server in modern web browsers.
